@@ -1,0 +1,7 @@
+history
+.emacs.desktop*
+server/
+auto-save-list
+.recentf.
+elpa
+.emacs.keyfreq

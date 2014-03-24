@@ -2,6 +2,7 @@ history
 .emacs.desktop*
 server/
 auto-save-list
-.recentf.
+.recentf
 elpa
 .emacs.keyfreq
+ac-comphist.dat
